@@ -1,2 +1,2 @@
 # LFD_Course
-Learning from data - edX CalTech course (Fall 2017)
+Learning from data - edX Caltech course (Fall 2017)
